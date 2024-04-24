@@ -1,4 +1,16 @@
-### Hi there 👋
+## Olá, me chamo Caio 👋
+
+Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
+ <br>
+## Sobre mim
+
+- 🎓 Cursando ADS na Fatec | 1ºSM
+- 💻 Estudando C e Python
+- 📕 Inglês na CNA | 4º ano
+<br>
+  
+
+
 
 <!--
 **Caio-Lopes16/Caio-Lopes16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
