@@ -2,15 +2,14 @@
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
  <br>
-## Sobre mim
+**Sobre mim**
 
 - 🎓 Cursando ADS na Fatec | 1ºSM
 - 💻 Estudando C e Python
 - 📕 Inglês na CNA | 4º ano
 <br>
-  
 
-### Para entrar em contato comigo:
+***Para entrar em contato comigo:**
 - Pessoal: caio.lopes16022@gmail.com 
 - Acadêmico: caio.pimenta@fatec.sp.gov.br
  
