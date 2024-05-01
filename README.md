@@ -1,9 +1,8 @@
 ## Olá, me chamo Caio 👋
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
----
  <br>
-
+---
 **Sobre mim:**
 
 - 🎓 Cursando ADS na Fatec | 1ºSM
