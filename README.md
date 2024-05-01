@@ -11,8 +11,8 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
   
 
 ### Para entrar em contato comigo:
-- E-mail Pessoal: caio.lopes16022@gmail.com 
-- E-mail Acadêmico: caio.pimenta@fatec.sp.gov.br
+- Pessoal: caio.lopes16022@gmail.com 
+- Acadêmico: caio.pimenta@fatec.sp.gov.br
  
 <br>
 
