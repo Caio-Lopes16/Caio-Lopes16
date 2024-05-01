@@ -9,10 +9,11 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
 - 📕 Inglês na CNA | 4º ano
 <br>
   
-<line>
+
 ### Para entrar em contato comigo:
 - E-mail Pessoal: caio.lopes16022@gmail.com 
-- E-mail Acadêmico: caio.pimenta@fatec.sp.gov.br 
+- E-mail Acadêmico: caio.pimenta@fatec.sp.gov.br
+ 
 <br>
 
 
