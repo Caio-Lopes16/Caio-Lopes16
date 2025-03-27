@@ -5,9 +5,9 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
 
 **Sobre mim:**
 
-- 🎓 Cursando ADS na Fatec | 1ºSM
-- 💻 Estudando C e Python
-- 📕 Inglês na CNA | 4º ano
+- 🎓 Cursando ADS na Fatec | 3ºSM
+- 💻 Estudando Linguagem C, Linux e Banco de Dados.
+- 📕 Inglês na CNA | 5º ano
 <br>
 
 **Para entrar em contato comigo:**
