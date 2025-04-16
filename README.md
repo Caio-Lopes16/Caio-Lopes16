@@ -1,6 +1,7 @@
 # Olá, me chamo Caio 👋
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
+ - Email Institucional : caio.pimenta@fatec.sp.gov.br 
  <br>
 
 **Sobre mim:**
@@ -10,9 +11,6 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
 - 📕 Inglês na CNA | 5º ano
 <br>
 
-**Para entrar em contato comigo:**
-- Pessoal: caio.lopes16022@gmail.com 
-- Institucional: caio.pimenta@fatec.sp.gov.br
 
 <br>
 
