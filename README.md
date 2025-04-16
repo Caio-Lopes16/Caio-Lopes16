@@ -1,10 +1,10 @@
 # 🧑🏻‍💻 Caio Lopes
 
-**`Análise e Desenvolvimento de Sistemas`** 
- - Email Institucional       caio.pimenta@fatec.sp.gov.br
+###**`Análise e Desenvolvimento de Sistemas`** 
+
  <br>
 
-**About me:**
+###**About me:**
 
 - 🎓 Cursando ADS na Fatec | 3ºSM
 - 💻 Estudando Estrutura de Dados em C, Linux e Banco de Dados.
@@ -16,7 +16,7 @@
 
 <br>
 
-# 💻 Tech Skills
+## 💻 Tech Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -32,7 +32,7 @@
 
 <br>
 
-# 🌐 Socials
+## 🌐 Socials
 <div>
   <!--E-mail-->
   <a href = "mailto:caio.lopes16022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
