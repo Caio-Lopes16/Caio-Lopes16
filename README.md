@@ -6,7 +6,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
 **Sobre mim:**
 
 - 🎓 Cursando ADS na Fatec | 3ºSM
-- 💻 Estudando Linguagem C, Linux e Banco de Dados.
+- 💻 Estudando Estrutura de Dados em C, Linux e Banco de Dados.
 - 📕 Inglês na CNA | 5º ano
 <br>
 
@@ -16,19 +16,13 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
 ---
 <br>
 
-
-
-<!--
-**Caio-Lopes16/Caio-Lopes16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Skills
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![FIGMA](https://img.shields.io/badge/FIGMA-ffffff?logo=figma&style=for-the-badge&color=a259ff&logoColor=ffffff)
+![github](https://img.shields.io/badge/github-ffffff?logo=github&style=for-the-badge&color=272b33&logoColor=ffffff)
+![git](https://img.shields.io/badge/git-ffffff?logo=git&style=for-the-badge&color=f05133&logoColor=ffffff)
+![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=545252&logoColor=ffffff)
+![trello](https://img.shields.io/badge/trello-ffffff?logo=trello&style=for-the-badge&color=0052cc&logoColor=ffffff)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
