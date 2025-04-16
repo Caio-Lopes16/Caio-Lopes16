@@ -7,6 +7,8 @@
 - 🎓 Cursando ADS na Fatec | 3ºSM
 - 💻 Estudando Estrutura de Dados em C, Linux e Banco de Dados.
 - 📕 Inglês na CNA | 5º ano
+
+---
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Lopes16&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
