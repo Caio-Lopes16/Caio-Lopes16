@@ -9,7 +9,6 @@
 - 📕 Inglês na CNA | 5º ano
 
 <br>
-<br>
 
 ## 💻 Tech Skills
 <img
@@ -72,7 +71,7 @@
 
 <br>
 <br>
-
+<br>
 
 ## 🌐 Socials
 <div>
@@ -84,6 +83,7 @@
   <a href="https://www.instagram.com/llopescaioo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div> 
 
+<br>
 <br>
 <br>
 
