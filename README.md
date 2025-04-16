@@ -2,8 +2,6 @@
 
 ### **`Análise e Desenvolvimento de Sistemas`** 
 
- <br>
-
 ### **About me:**
 
 - 🎓 Cursando ADS na Fatec | 3ºSM
@@ -12,7 +10,6 @@
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caio-Lopes16&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
 
 <br>
 
@@ -28,7 +25,6 @@
 ![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=545252&logoColor=ffffff)
 ![trello](https://img.shields.io/badge/trello-ffffff?logo=trello&style=for-the-badge&color=0052cc&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
 
 <br>
 
