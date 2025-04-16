@@ -2,7 +2,6 @@
 
 **`Análise e Desenvolvimento de Sistemas`** 
  - Email Institucional       caio.pimenta@fatec.sp.gov.br
- - Email Pessoal             caio.lopes16022@gmail.com
  <br>
 
 **About me:**
