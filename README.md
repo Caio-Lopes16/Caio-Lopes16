@@ -1,10 +1,10 @@
 # 🧑🏻‍💻 Caio Lopes
 
-###**`Análise e Desenvolvimento de Sistemas`** 
+### **`Análise e Desenvolvimento de Sistemas`** 
 
  <br>
 
-###**About me:**
+### **About me:**
 
 - 🎓 Cursando ADS na Fatec | 3ºSM
 - 💻 Estudando Estrutura de Dados em C, Linux e Banco de Dados.
