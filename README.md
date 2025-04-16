@@ -74,7 +74,7 @@
 />
 
 
-<br\>
+</br>
 
 ## 🌐 Socials
 <div>
