@@ -86,7 +86,7 @@
 <br>
 <br>
 
-## 📊 Statistics
+### 📊 Statistics
 
 <table>
   <tr>
