@@ -1,4 +1,4 @@
-# Olá, me chamo Caio 👋
+# ☺︎ Caio Lopes
 
 Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
  - Email Institucional       caio.pimenta@fatec.sp.gov.br
