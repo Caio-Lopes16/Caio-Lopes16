@@ -27,6 +27,7 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
 ![trello](https://img.shields.io/badge/trello-ffffff?logo=trello&style=for-the-badge&color=0052cc&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+<br>
 
 # 🌐 Contact
 <div>
