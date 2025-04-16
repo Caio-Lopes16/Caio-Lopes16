@@ -5,7 +5,7 @@
  - Email Pessoal             caio.lopes16022@gmail.com
  <br>
 
-**Sobre mim:**
+**About me:**
 
 - 🎓 Cursando ADS na Fatec | 3ºSM
 - 💻 Estudando Estrutura de Dados em C, Linux e Banco de Dados.
@@ -31,7 +31,7 @@
 
 <br>
 
-# 🌐 Contact
+# 🌐 Socials
 <div>
   <!--E-mail-->
   <a href = "mailto:caio.lopes16022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
