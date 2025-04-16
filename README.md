@@ -8,7 +8,6 @@
 - 💻 Estudando Estrutura de Dados em C, Linux e Banco de Dados.
 - 📕 Inglês na CNA | 5º ano
 
------
 <br>
 <br>
 
@@ -73,7 +72,22 @@
 
 <br>
 <br>
-### 📊 Statistics
+
+
+## 🌐 Socials
+<div>
+  <!--E-mail-->
+  <a href = "mailto:caio.lopes16022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!--Linkedin-->
+    <a href="https://www.linkedin.com/in/caio-lopes-pimenta-1602c/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!--Instagram-->
+  <a href="https://www.instagram.com/llopescaioo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div> 
+
+<br>
+<br>
+
+## 📊 Statistics
 
 <p>
   <img 
@@ -92,18 +106,3 @@
   />
 
 </p>
-
-<br> 
-<br>
-
-## 🌐 Socials
-<div>
-  <!--E-mail-->
-  <a href = "mailto:caio.lopes16022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!--Linkedin-->
-    <a href="https://www.linkedin.com/in/caio-lopes-pimenta-1602c/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <!--Instagram-->
-  <a href="https://www.instagram.com/llopescaioo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div> 
-
-<br/>
