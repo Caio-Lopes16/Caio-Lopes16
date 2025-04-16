@@ -26,3 +26,16 @@ Estou cursando **Análise e Desenvolvimento de Sistemas** na Fatec.
 ![Linux](https://img.shields.io/badge/Linux-ffffff?logo=linux&style=for-the-badge&color=545252&logoColor=ffffff)
 ![trello](https://img.shields.io/badge/trello-ffffff?logo=trello&style=for-the-badge&color=0052cc&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+
+# 🌐 Contact
+<div>
+  <!--E-mail-->
+  <a href = "mailto:caio.lopes16022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <!--Linkedin-->
+    <a href="https://www.linkedin.com/in/caio-lopes-pimenta-1602c/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!--Instagram-->
+  <a href="https://www.instagram.com/llopescaioo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div> 
+
+<br/>
