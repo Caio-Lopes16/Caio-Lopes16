@@ -4,7 +4,7 @@
 
 ### **About me:**
 
-- 🎓 Cursando ADS na Fatec | 3ºSM.
+- 🎓 Cursando ADS na Fatec | 4ºSM.
 - 💻 Estudando Estrutura de Dados em C, Linux e Banco de Dados.
 - 📕 Inglês na CNA | 5º ano.
 
