@@ -5,7 +5,7 @@
 ### **About me:**
 
 - 🎓 Cursando ADS na Fatec | 4ºSM.
-- 💻 Estudando Estrutura de Dados em C, Linux e Banco de Dados.
+- 💻 Estudando POO em Java, Redes de Computadores e Banco de Dados.
 - 📕 Inglês na CNA | 5º ano.
 
 <br>
@@ -26,6 +26,14 @@
   width="30px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
 />
 <img
   align="left"
