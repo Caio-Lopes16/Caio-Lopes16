@@ -101,7 +101,7 @@
       <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=Caio-Lopes16&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+        src="https://github-readme-stats.vercel.app/api?username=Caio-Lopes16&show_icons=true&theme=tokyonight"
       />
     </td>
     <td>
