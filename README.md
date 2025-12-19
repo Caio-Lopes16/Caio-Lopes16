@@ -4,8 +4,8 @@
 
 ### **About me:**
 
-- 🎓 Cursando ADS na Fatec | 4ºSM.
 - 🧑🏻‍💻 Suporte Técnico na _Microwork Softwares_
+- 🎓 Cursando ADS na Fatec | 4ºSM.
 - 💻 Estudando POO em Java, Redes de Computadores e Banco de Dados.
 - 📕 Inglês na CNA
 
