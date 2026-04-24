@@ -6,7 +6,6 @@
 
 - 🧑🏻‍💻 Analista na [_Microwork Softwares_](https://www.microwork.inf.br/)
 - 🎓 Cursando ADS na Fatec | 5ºSM.
-- 💻 Estudando POO em Java, e Banco de Dados.
 - 📕 Inglês na CNA
 
 <br>
